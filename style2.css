@@ -1,27 +1,45 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700,300italic,400italic,700italic);
 
-h1{
-  font-weight: bold;
-  font-family: "Roboto Condensed", sans-serif;
-  color: blue;
 }
   body {
   font-family: "Roboto Condensed", sans-serif;
   font-size: 18px;
 }
-h2{
+
+#peanutbuttercookies{
+  text-align: center;
+  font-weight: bold;
+  font-size: 35px;
+  font-family: "Roboto Condensed", sans-serif;
+  color: blue;
+}
+
+#recipe{
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: "Roboto Condensed", sans-serif;
+  color: black;
+}
+
+#ingredients{
+  width: 41%;
+  padding: 5px;
+  margin: 40px;
+  box-sizing: border-box;
+  border: solid blue 2px;
+  float:left;
   font-weight: bold;
   font-family: "Roboto Condensed"
 }
-  body {
-    font-family: "Roboto Condensed", sans-serif;
-    font-size: 18px;
-  }
-h3 {
+
+#directions{
+  width: 43%;
+  padding: 5px;
+  margin: 40px;
+  box-sizing: border-box;
+  border: solid blue 2px;
+  float:left;
   font-weight: bold;
   font-family: "Roboto Condensed"
 }
-  body {
-    font-family: "Roboto Condensed", sans-serif;
-    font-size: 18px;
-  }
