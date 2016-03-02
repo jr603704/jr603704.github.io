@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Gloria+Hallelujah);
+@import url(https://fonts.googleapis.com/css?family=VT323);
+@import url(https://fonts.googleapis.com/css?family=Audiowide);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display+SC:900italic,400italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:400,100);
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+
+
+#title {
+  text-align: center;
+  font-weight: bold;
+  border-color: yellow;
+  font-size: 35px;
+   text-decoration: line-through;
+  font-family: "Playfair Display SC"
+}
+#verse1 {
+  float: right;
+  width: 12%;
+  border-color: green;
+  border-style: dashed;
+  letter-spacing: 0.4em;
+  font-style: italic;
+  color: blue;
+  font-family: "Audiowide"
+}
+
+#verse2 {
+  float: left;
+  width: 35%;
+  border-color: orange;
+  background-color: maroon;
+  border-style: double;
+  text-decoration: underline wavy brown;
+  color: grey;
+  font-family: "Gloria Hallelujah"
+}
+
+#verse3 {
+  float: left;
+  width: 10%;
+  box-sizing: content-box;
+  padding: 5px 1em;
+  background-color: olive;
+  color: fuchsia;
+  font-family: "Roboto Mono";
+  font-weight: 400;;
+}
+
+#apple {
+  border: 1px solid black;
+  background-color: grey;
+margin: 10%;
+padding: 10%;
+}
+
+#verse4 {
+  float: left;
+  width: 5%;
+  margin: 2px 50%;
+  padding: 10%;
+  color: gold;
+  letter-spacing: 3px;
+  font-family: "Chewy"
+}
+
+
+#verse5 {
+  float: right;
+  margin: 0px 15% ;
+  padding: 3em 2em;
+  border-style: groove;
+  border-bottom: 1px solid grey;
+  color: peru;
+  font-style: oblique;
+  font-family: "Chewy"
+
+}
