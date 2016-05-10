@@ -1,0 +1,103 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic);
+
+.mainheader{
+  padding: 3%;
+  text-align: center;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+.mainheader2{
+  padding: 3%;
+  text-align: center;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+
+
+h1{
+  font-size: 90px;
+  margin: 1%;
+  font-family: "Open Sans Condensed", sans-serif;
+  text-align: center;
+  color: white;
+  text-decoration: inherit;
+}
+
+h2{
+  font-size: 90px;
+  margin: 1%;
+  font-family: "Open Sans Condensed", sans-serif;
+  text-align: center;
+  color: white;
+  text-decoration: inherit;
+}
+
+h3{
+  font-size: 90px;
+  margin: 1%;
+  font-family: "Open Sans Condensed", sans-serif;
+  text-align: center;
+  color: white;
+  text-decoration: inherit;
+}
+
+h4{
+  font-size: 90px;
+  margin: 1%;
+  font-family: "Open Sans Condensed", sans-serif;
+  text-align: center;
+  color: white;
+  text-decoration: inherit;
+}
+
+h5{
+  font-size: 90px;
+  margin: 1%;
+  font-family: "Open Sans Condensed", sans-serif;
+  text-align: center;
+  color: white;
+  text-decoration: inherit;
+}
+
+
+.row1{
+  padding: 3%;
+  text-align: center;
+  background-color: #94C1AE;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+.row2{
+  padding: 3%;
+  text-align: center;
+  background-color: #FFE6C4;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+.row3{
+  padding: 3%;
+  text-align: center;
+  background-color: #90A7B9;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+.row4{
+  padding: 3%;
+  text-align: center;
+  background-color: #FFD4C4;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+
+.row5{
+  padding: 3%;
+  text-align: center;
+  background-color: #87B09E;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+
+
+#row1{
+  font-size: 30px;
+}
